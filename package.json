@@ -1,0 +1,12 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Encode Any Message with M3 Enigma. Pass settings as parameters.",
+  "main": "encrypt_v0.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevthekoifishy",
+  "license": "ISC"
+}
